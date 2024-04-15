@@ -1,4 +1,4 @@
-![image](https://github.com/KISHORENARAYANANSR/EIGENVALUES-AND-EIGENVECTORS/assets/148202102/c259f36e-4cd3-42ef-adf7-abb3f573653e)# EIGENVALUES-AND-EIGENVECTORS
+# EIGENVALUES-AND-EIGENVECTORS
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
